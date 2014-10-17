@@ -1,0 +1,3 @@
+This is a hobby project only...
+
+Generally, it's a TCP server that I'm using to capture communications sent from my Elk M1 Gold security / automation system and then do some small stuff with the message (like sending to pushbullet and telling an arduino to blink an LED).
